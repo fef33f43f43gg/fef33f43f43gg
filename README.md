@@ -58,5 +58,6 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fef33f43f43&theme=dark&border_radius=5&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fef33f43f43&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fef33f43f43gg&theme=neon)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fef33f43f43gg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
