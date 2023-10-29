@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <a href="https://zelenka.guru/">
         <img src="https://img.shields.io/badge/LolzTeam-green?style=for-the-badge&logo=EndWay&logoColor=white"/>
     </a>
-     <a href="t.me/@rqm_end">
+     <a href="https://t.me/rqm_end">
     <img src="https://img.shields.io/badge/my%20contact-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://media.giphy.com/media/3o7bu4hSl8nZlJRNks/giphy.gif" width="100"/>
 </div>
