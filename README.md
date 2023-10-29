@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 <div id="header" align="center" id="badges">
     <a href="https://endway.su/@r3qu1em/">
     <img src="https://img.shields.io/badge/EndWay-yellow?style=for-the-badge&logo=EndWay&logoColor=white"/>
+        </a>
+    <a href="https://zelenka.guru/">
         <img src="https://img.shields.io/badge/LolzTeam-green?style=for-the-badge&logo=EndWay&logoColor=white"/>
+    </a>
     <img src="https://img.shields.io/badge/my%20contact-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://media.giphy.com/media/3o7bu4hSl8nZlJRNks/giphy.gif" width="100"/>
 </div>
