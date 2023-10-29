@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
+    <div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjE3dGFqZnE5cDFlMjJhbXYwNHhlYmZhY2MwNXp4ajN1amIwd2hyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2ufk4HuocUWMta/giphy.gif"/>
     <a href="https://endway.su/@r3qu1em/">
     <img src="https://img.shields.io/badge/EndWay-yellow?style=for-the-badge&logo=EndWay&logoColor=white"/>
           </a>
@@ -22,6 +24,6 @@ Here are some ideas to get you started:
      <a href="https://t.me/rqm_end">
     <img src="https://img.shields.io/badge/my%20contact-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
           </a>
-</div id="badges" align="center">
+<div id="badges" align="center">
      <img src="https://komarev.com/ghpvc/?username=fef33f43f43gg&style=flat-square&color=blue" alt=""/>
 </div>
